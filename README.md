@@ -22,28 +22,26 @@
 
 <br>
 
-### 🚀 About Me
+### About Me
 
-[cite_start]I am a senior **Software Engineering** student at **Çankaya University** (Minor in Economics)[cite: 4, 5]. [cite_start]I am the founder of the **Quantum Çankaya Club**[cite: 9]. My work focuses on bridging theoretical AI with real-world applications.
+I am a senior **Software Engineering** student at **Çankaya University** (Minor in Economics). I am the founder of the **Quantum Çankaya Club**. My work focuses on bridging theoretical AI with real-world applications.
 
-* [cite_start]🔭 **Research:** Published author in **Gazi Medical Journal** regarding Deep Learning in BCI (NeuroMotion Project)[cite: 10, 25].
-* [cite_start]🌱 **Currently Learning:** Advanced optimization for LLMs (Pegasus architecture) and EEG signal processing[cite: 17, 27].
-* [cite_start]💼 **Experience:** Interned at **Giresun University** (NLP/Data Scraping) and **Finansbank** (Financial AI Models)[cite: 12, 16, 18, 22].
+* **Research:** Published author in **Gazi Medical Journal** regarding Deep Learning in BCI (NeuroMotion Project).
+* **Currently Learning:** Advanced optimization for LLMs (Pegasus architecture) and EEG signal processing.
+* **Experience:** Interned at **Giresun University** (NLP/Data Scraping) and **Finansbank** (Financial AI Models).
 
 ---
 
-### 🏆 Featured Projects
+### My Best Projects
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| [cite_start]**NeuroMotion** [cite: 25] | Real-time BCI using CNN/RNN to detect motion intention from EEG signals. Includes Unity integration. | `PyTorch` `Unity` `TCP/UDP` |
-| [cite_start]**GemmaTR** [cite: 46] | Fine-tuned Google's Gemma model for Turkish language using LoRA & Unsloth (400k+ entries). | `LLM` `Unsloth` `Hugging Face` |
-| [cite_start]**Financst** [cite: 31] | High-performance financial tracking platform with live market data analysis. | `MERN Stack` `Next.js` `DuckDB` |
-| [cite_start]**Synvia** [cite: 35] | Electron-based desktop AI application for secure, local data processing. | `Electron` `React` `Local AI` |
+| **NeuroMotion** | Real-time BCI using CNN/RNN to detect motion intention from EEG signals with Unity integration. | `PyTorch` `Unity` `TCP/UDP` |
+| **GemmaTR** | Fine-tuned Google's Gemma model for Turkish (400k+ entries) using LoRA & Unsloth. | `LLM` `Unsloth` `Hugging Face` |
+| **Financst** | High-performance financial tracking platform with live market data analysis and dynamic charts. | `MERN` `Next.js` `DuckDB` |
+| **Synvia** | Electron-based desktop AI application for secure, local data processing and model integration. | `Electron` `React` `Local AI` |
 
----
-
-### 🛠️ Tech Stack
+### Tech Stack
 
 <details open>
   <summary><b>Artificial Intelligence & Data Science</b></summary>
@@ -90,7 +88,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Murattut&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
